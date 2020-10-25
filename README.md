@@ -2,7 +2,7 @@
 Random projects with no guarantee of being useful to anyone.
 
 ## Here for OfficeFree65?
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3rikk&repo=officefree65)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=3rikk&repo=officefree65)](https://github.com/3rikk/officefree65)
 
 ## My stats:
 
